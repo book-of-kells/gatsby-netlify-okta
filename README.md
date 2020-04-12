@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd29123a-9b95-4053-b81c-4cd7acd1dc60/deploy-status)](https://app.netlify.com/sites/brave-feynman-e14fe2/deploys)
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
