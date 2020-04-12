@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/20262/carpet.svg" width="60" />
+    <img alt="Gatsby" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/20262/carpet.svg" width="60" style="border-radius: 50%;"/>
   </a>
 </p>
 <h1 align="center">
